@@ -36,15 +36,15 @@ Welcome to my GitHub profile!
 
 ## 📈 GitHub Stats
 
-![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarneto&show_icons=true&theme=tokyonight)
+![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarneto12&show_icons=true&theme=tokyonight)
 
 ## 🧑‍💻 Languages Used
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarneto&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarneto12&layout=compact&theme=tokyonight)
 
 ## 🐍 Snake Activity
 
-![Snake animation](https://github.com/edgarneto/edgarneto/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/edgarneto/edgarneto12/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 Let's Connect
 
