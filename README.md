@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Tech Stack
 
-### Front-end
+### 🖥️ Front-end
 <img align="left" alt="HTML" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
@@ -18,19 +18,37 @@ Welcome to my GitHub profile!
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 <br/><br/>
 
-### Back-end & Others
+### ⚙️ Back-end & Tools
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="left" alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+<br/><br/>
+
+### ☁️ DevOps & Environment
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img align="left" alt="Bash" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
+<img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" />
 <br/><br/>
 
 ## 📈 GitHub Stats
 
 ![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarneto&show_icons=true&theme=tokyonight)
 
+## 🧑‍💻 Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarneto&layout=compact&theme=tokyonight)
+
+## 🐍 Snake Activity
+
+![Snake animation](https://github.com/edgarneto/edgarneto/blob/output/github-contribution-grid-snake.svg)
+
 ## 📫 Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/edgar-neto-6a395a265)
+- [LinkedIn](https://www.linkedin.com/in/edgar-neto-6a395a265)
 - [Email](mailto:edgarneto789@gmail.com)
 
 ---
