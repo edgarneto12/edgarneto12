@@ -30,8 +30,8 @@ Welcome to my GitHub profile!
 
 ## 📫 Let's Connect
 
-- [LinkedIn]()
-- [Email](mailto:seu@email.com)
+- [LinkedIn](www.linkedin.com/in/edgar-neto-6a395a265)
+- [Email](mailto:edgarneto789@gmail.com)
 
 ---
 
