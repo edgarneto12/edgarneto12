@@ -31,7 +31,7 @@ Welcome to my GitHub profile!
 <img align="left" alt="Bash" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
 <img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="left" alt="AWS" width="30px" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.sv](https://skillicons.dev/icons?i=aws&theme=dark)g" />
 <br/><br/>
 
 ## 📈 GitHub Stats
@@ -41,11 +41,6 @@ Welcome to my GitHub profile!
 ## 🧑‍💻 Languages Used
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarneto12&layout=compact&theme=tokyonight)
-
-## 🐍 Snake Activity
-![Snake animation](https://github.com/edgarneto12/edgarneto12/blob/main/github-contribution-grid-snake.svg)
-
-![Snake animation](https://github.com/edgarneto/edgarneto12/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 Let's Connect
 
