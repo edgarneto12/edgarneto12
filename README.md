@@ -31,7 +31,7 @@ Welcome to my GitHub profile!
 <img align="left" alt="Bash" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
 <img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-<img align="left" alt="AWS" width="30px" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.sv](https://skillicons.dev/icons?i=aws&theme=dark)g" />
+<img align="left" alt="AWS" width="30px" src="https://skillicons.dev/icons?i=aws&theme=dark" />
 <br/><br/>
 
 ## 📈 GitHub Stats
