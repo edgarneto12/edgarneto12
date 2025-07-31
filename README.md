@@ -43,6 +43,7 @@ Welcome to my GitHub profile!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarneto12&layout=compact&theme=tokyonight)
 
 ## 🐍 Snake Activity
+![Snake animation](https://github.com/edgarneto12/edgarneto12/blob/main/github-contribution-grid-snake.svg)
 
 ![Snake animation](https://github.com/edgarneto/edgarneto12/blob/output/github-contribution-grid-snake.svg)
 
